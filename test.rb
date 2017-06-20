@@ -1,5 +1,5 @@
 def bill()
-    if bill == "red"
+    if bill = "red"
         do this
         else
             dont
